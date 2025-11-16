@@ -12,7 +12,7 @@
             ],
             "Condition": {
                 "StringNotEquals": {
-                    "aws:PrincipalAccount": "YOUR_ACCOUNT_ID"
+                    "aws:PrincipalAccount": "975050024946"
                 }
             }
         }
